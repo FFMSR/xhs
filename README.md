@@ -1,7 +1,7 @@
 # 小红书API服务文档
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/xiaohongshu-api-docs?style=social)](https://github.com/your-username/xiaohongshu-api-docs)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/xiaohongshu-api-docs?style=social)](https://github.com/your-username/xiaohongshu-api-docs)
+[![GitHub stars](https://img.shields.io/github/stars/FFMSR/xhs/?style=social)](https://github.com/FFMSR/xhs/)
+[![GitHub forks](https://img.shields.io/github/forks/FFMSR/xhs/?style=social)](https://github.com/FFMSR/xhs/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > 专业、稳定、高效的小红书数据接口解决方案
